@@ -1,0 +1,2 @@
+# Predicting-Energy-Meter
+Many companies and organizations are improving the efficiency of their buildings to reduce energy use. When doing this, there is a needs criteria for evaluating the efficiency improvements. Current methods require models specific to the area and building being worked on. By using machine learning, our research targets the ability to predict the energy use of any building based on energy usage history.
